@@ -1,0 +1,59 @@
+{
+  "uuid": "ca86c7140ae0439ba3fc9a617b263bb5",
+  "file_path": "https://cdn.sh-genius.cn/5c2a62714aafbf5e2372727c774791d8.dcz",
+  "file_md5": "5c2a62714aafbf5e2372727c774791d8",
+  "title": "普通高中教科书 地理 选择性必修1 自然地理基础",
+  "cover_path": "https://cdn.sh-genius.cn/cover/ca86c7140ae0439ba3fc9a617b263bb5/ca86c7140ae0439ba3fc9a617b263bb5.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/ca86c7140ae0439ba3fc9a617b263bb5.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 4,
+  "short_title": "高中地理选修1 自然地理基础",
+  "update_time": "2026-08-24 06:01:00",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    },
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    },
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZGDT",
+  "grade": "SENIOR_PHASE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787558803147",
+  "status": "1",
+  "subject_str": "地理"
+}

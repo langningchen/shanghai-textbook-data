@@ -1,0 +1,59 @@
+{
+  "uuid": "c8ebebf7e9b54801b0491295831646d9",
+  "file_path": "https://cdn.sh-genius.cn/9995e81b1265711c6f286d3376b1154c.dcz",
+  "file_md5": "9995e81b1265711c6f286d3376b1154c",
+  "title": "普通高中教科书 美术 选择性必修6 现代媒体艺术",
+  "cover_path": "https://cdn.sh-genius.cn/cover/c8ebebf7e9b54801b0491295831646d9/c8ebebf7e9b54801b0491295831646d9.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/c8ebebf7e9b54801b0491295831646d9.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "高中美术选修6 现代媒体艺术",
+  "update_time": "2026-03-03 19:52:39",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    },
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    },
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "SENIOR_PHASE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547924051",
+  "status": "1",
+  "subject_str": "美术"
+}

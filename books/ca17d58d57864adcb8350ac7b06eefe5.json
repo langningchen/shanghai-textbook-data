@@ -1,0 +1,35 @@
+{
+  "uuid": "ca17d58d57864adcb8350ac7b06eefe5",
+  "file_path": "https://cdn.sh-genius.cn/687271c86d5974646ca2aab4e2066a92.dcz",
+  "file_md5": "687271c86d5974646ca2aab4e2066a92",
+  "title": "义务教育教科书（五·四学制）·艺术·音乐 六年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/ca17d58d57864adcb8350ac7b06eefe5/ca17d58d57864adcb8350ac7b06eefe5.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/ca17d58d57864adcb8350ac7b06eefe5.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 8,
+  "short_title": "艺术·音乐（六年级上册）",
+  "update_time": "2026-08-27 13:49:30",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "SIXTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552328639",
+  "status": "1",
+  "subject_str": "音乐"
+}
