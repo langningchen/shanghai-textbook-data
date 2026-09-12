@@ -1,0 +1,35 @@
+{
+  "uuid": "1228600f1af140da836223ff12512d21",
+  "file_path": "https://cdn.sh-genius.cn/f20268016f407db89a29b63c39188722.dcz",
+  "file_md5": "f20268016f407db89a29b63c39188722",
+  "title": "义务教育教科书（五·四学制） 艺术·音乐 七年级下册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/1228600f1af140da836223ff12512d21/1228600f1af140da836223ff12512d21.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/1228600f1af140da836223ff12512d21.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "艺术·音乐七下",
+  "update_time": "2026-03-08 22:14:12",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "SEVENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552328660",
+  "status": "1",
+  "subject_str": "音乐"
+}
