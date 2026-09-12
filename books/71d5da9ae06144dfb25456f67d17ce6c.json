@@ -1,0 +1,35 @@
+{
+  "uuid": "71d5da9ae06144dfb25456f67d17ce6c",
+  "file_path": "https://cdn.sh-genius.cn/fc7e44e7c2c50b7515c39cc63746baa3.dcz",
+  "file_md5": "fc7e44e7c2c50b7515c39cc63746baa3",
+  "title": "美术 五年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/71d5da9ae06144dfb25456f67d17ce6c/71d5da9ae06144dfb25456f67d17ce6c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/71d5da9ae06144dfb25456f67d17ce6c.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "美术五二",
+  "update_time": "2026-02-10 12:44:12",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FIFTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544496216",
+  "status": "1",
+  "subject_str": "美术"
+}
