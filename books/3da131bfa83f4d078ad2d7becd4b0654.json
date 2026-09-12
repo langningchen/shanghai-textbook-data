@@ -1,0 +1,35 @@
+{
+  "uuid": "3da131bfa83f4d078ad2d7becd4b0654",
+  "file_path": "https://cdn.sh-genius.cn/d01c0d072645dcb646748364ebb41cd1.dcz",
+  "file_md5": "d01c0d072645dcb646748364ebb41cd1",
+  "title": "义务教育教科书（五·四学制）·艺术·造型·美术实践手册 二年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/3da131bfa83f4d078ad2d7becd4b0654/3da131bfa83f4d078ad2d7becd4b0654.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/3da131bfa83f4d078ad2d7becd4b0654.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 4,
+  "short_title": "艺术·造型·美术实践手册二上",
+  "update_time": "2026-08-19 20:53:32",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SECOND_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "02",
+      "grade_level_str": "二年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "SECOND_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787547936177",
+  "status": "1",
+  "subject_str": "美术"
+}

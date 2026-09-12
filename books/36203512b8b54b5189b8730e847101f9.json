@@ -1,0 +1,35 @@
+{
+  "uuid": "36203512b8b54b5189b8730e847101f9",
+  "file_path": "https://cdn.sh-genius.cn/5a0e34068ebdc28787edf0012caf4abe.dcz",
+  "file_md5": "5a0e34068ebdc28787edf0012caf4abe",
+  "title": "普通高中教科书 信息技术 必修2 信息系统与社会",
+  "cover_path": "https://cdn.sh-genius.cn/cover/36203512b8b54b5189b8730e847101f9/36203512b8b54b5189b8730e847101f9.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/36203512b8b54b5189b8730e847101f9.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 10,
+  "short_title": "高中信息技术必修2 信息系统与社会",
+  "update_time": "2026-03-03 11:47:00",
+  "subject": "XX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "HDSD",
+  "grade": "TENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787576005486",
+  "status": "1",
+  "subject_str": "信息科技"
+}
