@@ -1,0 +1,35 @@
+{
+  "uuid": "012a209e65a0486db5b0ee9f9813467b",
+  "file_path": "https://cdn.sh-genius.cn/db2c1cf138d8998c014736256ed02481.dcz",
+  "file_md5": "db2c1cf138d8998c014736256ed02481",
+  "title": "义务教育教科书（五·四学制） 数学练习部分 七年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/012a209e65a0486db5b0ee9f9813467b/012a209e65a0486db5b0ee9f9813467b.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/012a209e65a0486db5b0ee9f9813467b.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 8,
+  "short_title": "数学练习部分七上",
+  "update_time": "2026-08-23 11:19:05",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787572028731",
+  "status": "1",
+  "subject_str": "数学"
+}

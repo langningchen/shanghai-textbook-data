@@ -1,0 +1,35 @@
+{
+  "uuid": "052991fe1a8f4beb93795a10202c1cec",
+  "file_path": "https://cdn.sh-genius.cn/218ed36fc74cb76ae53e9d06b3f7668f.dcz",
+  "file_md5": "218ed36fc74cb76ae53e9d06b3f7668f",
+  "title": "义务教育教科书（五·四学制）·艺术·造型·美术 五年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/052991fe1a8f4beb93795a10202c1cec/052991fe1a8f4beb93795a10202c1cec.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/052991fe1a8f4beb93795a10202c1cec.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 4,
+  "short_title": "艺术·造型·美术五上",
+  "update_time": "2026-08-19 20:52:53",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "FIFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547938843",
+  "status": "1",
+  "subject_str": "美术"
+}
