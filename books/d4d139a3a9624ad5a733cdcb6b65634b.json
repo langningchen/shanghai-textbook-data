@@ -1,0 +1,59 @@
+{
+  "uuid": "d4d139a3a9624ad5a733cdcb6b65634b",
+  "file_path": "https://cdn.sh-genius.cn/6a0d3198d23bff7287ea431ebef50402.dcz",
+  "file_md5": "6a0d3198d23bff7287ea431ebef50402",
+  "title": "普通高中教科书 音乐 选择性必修2 合奏",
+  "cover_path": "https://cdn.sh-genius.cn/cover/d4d139a3a9624ad5a733cdcb6b65634b/d4d139a3a9624ad5a733cdcb6b65634b.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/d4d139a3a9624ad5a733cdcb6b65634b.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "高中音乐选修2 合奏",
+  "update_time": "2026-03-09 21:01:54",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    },
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    },
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "SENIOR_PHASE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552319859",
+  "status": "1",
+  "subject_str": "音乐"
+}
