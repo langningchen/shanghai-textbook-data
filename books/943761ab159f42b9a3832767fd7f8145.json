@@ -1,0 +1,35 @@
+{
+  "uuid": "943761ab159f42b9a3832767fd7f8145",
+  "file_path": "https://cdn.sh-genius.cn/75ed0d0646698cb0845dd1088883f71b.dcz",
+  "file_md5": "75ed0d0646698cb0845dd1088883f71b",
+  "title": "义务教育教科书（五·四学制）·艺术·造型·美术实践手册 一年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/943761ab159f42b9a3832767fd7f8145/943761ab159f42b9a3832767fd7f8145.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/943761ab159f42b9a3832767fd7f8145.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 4,
+  "short_title": "艺术·造型·美术实践手册一上",
+  "update_time": "2026-08-19 20:53:20",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIRST_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "01",
+      "grade_level_str": "一年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "FIRST_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787547933855",
+  "status": "1",
+  "subject_str": "美术"
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "99e8be0dfc474d7f88cd8024272c64bf",
+  "file_path": "https://cdn.sh-genius.cn/851cc74f808f78042ced2e74706e8b8f.dcz",
+  "file_md5": "851cc74f808f78042ced2e74706e8b8f",
+  "title": "义务教育教科书（五·四学制） 化学 九年级 全一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/99e8be0dfc474d7f88cd8024272c64bf/99e8be0dfc474d7f88cd8024272c64bf.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/99e8be0dfc474d7f88cd8024272c64bf.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 8,
+  "short_title": "化学九年级",
+  "update_time": "2026-08-23 20:49:58",
+  "subject": "HX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "NINTH_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787547870464",
+  "status": "1",
+  "subject_str": "化学"
+}

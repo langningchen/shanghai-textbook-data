@@ -1,0 +1,58 @@
+{
+  "uuid": "95b1c3b51e16499886b81cd53b071ff4",
+  "file_path": "https://cdn.sh-genius.cn/7d0cba6699bcb86b1396972f06e65161.dcz",
+  "file_md5": "7d0cba6699bcb86b1396972f06e65161",
+  "title": "普通高中教科书 生物学练习部分 选择性必修2 生物与环境",
+  "cover_path": "https://cdn.sh-genius.cn/cover/95b1c3b51e16499886b81cd53b071ff4/95b1c3b51e16499886b81cd53b071ff4.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/95b1c3b51e16499886b81cd53b071ff4.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 6,
+  "short_title": "高中生物学练习部分选修2 生物与环境",
+  "update_time": "2026-08-23 23:52:05",
+  "subject": "SW",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    },
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    },
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "SENIOR_PHASE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787547856895",
+  "status": "1",
+  "subject_str": "生物"
+}
