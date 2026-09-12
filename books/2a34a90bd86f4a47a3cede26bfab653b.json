@@ -1,0 +1,35 @@
+{
+  "uuid": "2a34a90bd86f4a47a3cede26bfab653b",
+  "file_path": "https://cdn.sh-genius.cn/fea71017874a39d58a82a494c0f96333.dcz",
+  "file_md5": "fea71017874a39d58a82a494c0f96333",
+  "title": "义务教育教科书（五·四学制） 数学 三年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/2a34a90bd86f4a47a3cede26bfab653b/2a34a90bd86f4a47a3cede26bfab653b.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/2a34a90bd86f4a47a3cede26bfab653b.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 8,
+  "short_title": "数学三上",
+  "update_time": "2026-08-23 08:02:03",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "THIRD_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572043154",
+  "status": "1",
+  "subject_str": "数学"
+}

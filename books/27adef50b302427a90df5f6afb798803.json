@@ -1,0 +1,35 @@
+{
+  "uuid": "27adef50b302427a90df5f6afb798803",
+  "file_path": "https://cdn.sh-genius.cn/fcb102218769c5bf39e9d075f5aba234.dcz",
+  "file_md5": "fcb102218769c5bf39e9d075f5aba234",
+  "title": "义务教育教科书（五·四学制） 英语 四年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/27adef50b302427a90df5f6afb798803/27adef50b302427a90df5f6afb798803.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/27adef50b302427a90df5f6afb798803.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 8,
+  "short_title": "英语四上",
+  "update_time": "2026-08-26 22:32:41",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572043567",
+  "status": "1",
+  "subject_str": "英语"
+}

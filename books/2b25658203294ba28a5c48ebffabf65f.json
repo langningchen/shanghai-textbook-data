@@ -1,0 +1,58 @@
+{
+  "uuid": "2b25658203294ba28a5c48ebffabf65f",
+  "file_path": "https://cdn.sh-genius.cn/b949cc1978795702be47c9790dbfaa94.dcz",
+  "file_md5": "b949cc1978795702be47c9790dbfaa94",
+  "title": "普通高中教科书 生物学实验与活动部分 选择性必修3 生物技术与工程",
+  "cover_path": "https://cdn.sh-genius.cn/cover/2b25658203294ba28a5c48ebffabf65f/2b25658203294ba28a5c48ebffabf65f.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/2b25658203294ba28a5c48ebffabf65f.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 6,
+  "short_title": "高中生物学实验与活动部分选修3 生物技术与工程",
+  "update_time": "2026-02-25 00:20:30",
+  "subject": "SW",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    },
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    },
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "SENIOR_PHASE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "SYC",
+  "isbn": "9787547859827",
+  "status": "1",
+  "subject_str": "生物"
+}
