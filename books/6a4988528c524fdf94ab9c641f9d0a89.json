@@ -1,0 +1,35 @@
+{
+  "uuid": "6a4988528c524fdf94ab9c641f9d0a89",
+  "file_path": "https://cdn.sh-genius.cn/256537897a164fb025c259f5aa919c35.dcz",
+  "file_md5": "256537897a164fb025c259f5aa919c35",
+  "title": "义务教育教科书（五·四学制） 数学练习部分 六年级下册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/6a4988528c524fdf94ab9c641f9d0a89/6a4988528c524fdf94ab9c641f9d0a89.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/6a4988528c524fdf94ab9c641f9d0a89.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "数学练习部分六下",
+  "update_time": "2026-02-10 14:18:45",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SIXTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787572033339",
+  "status": "1",
+  "subject_str": "数学"
+}

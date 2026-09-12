@@ -1,0 +1,35 @@
+{
+  "uuid": "692cb703c43d455eb94f2853aae17f66",
+  "file_path": "https://cdn.sh-genius.cn/c054439bd76b63fe833a8019e89aebd3.dcz",
+  "file_md5": "c054439bd76b63fe833a8019e89aebd3",
+  "title": "义务教育教科书（五·四学制）·艺术·造型·美术实践手册 五年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/692cb703c43d455eb94f2853aae17f66/692cb703c43d455eb94f2853aae17f66.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/692cb703c43d455eb94f2853aae17f66.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 4,
+  "short_title": "艺术·造型·美术实践手册五上",
+  "update_time": "2026-08-19 20:52:55",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "FIFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787547938881",
+  "status": "1",
+  "subject_str": "美术"
+}

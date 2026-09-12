@@ -1,0 +1,35 @@
+{
+  "uuid": "6ecfe39be0364d2d8c39081959b04f76",
+  "file_path": "https://cdn.sh-genius.cn/dda1e5af918e61511025268807fa7622.dcz",
+  "file_md5": "dda1e5af918e61511025268807fa7622",
+  "title": "数学练习部分 五年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/6ecfe39be0364d2d8c39081959b04f76/6ecfe39be0364d2d8c39081959b04f76.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/6ecfe39be0364d2d8c39081959b04f76.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 2,
+  "short_title": "数学练习部分五二",
+  "update_time": "2026-02-10 12:44:00",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FIFTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544480819",
+  "status": "1",
+  "subject_str": "数学"
+}

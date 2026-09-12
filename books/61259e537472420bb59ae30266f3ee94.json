@@ -1,0 +1,35 @@
+{
+  "uuid": "61259e537472420bb59ae30266f3ee94",
+  "file_path": "https://cdn.sh-genius.cn/b6881f83a64bc3daefb293f92f037e5b.dcz",
+  "file_md5": "b6881f83a64bc3daefb293f92f037e5b",
+  "title": "普通高中教科书 信息技术 选择性必修3 数据管理与分析",
+  "cover_path": "https://cdn.sh-genius.cn/cover/61259e537472420bb59ae30266f3ee94/61259e537472420bb59ae30266f3ee94.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/61259e537472420bb59ae30266f3ee94.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 10,
+  "short_title": "高中信息技术选修3 数据管理与分析",
+  "update_time": "2026-08-22 05:47:54",
+  "subject": "XX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "HDSD",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787576005516",
+  "status": "1",
+  "subject_str": "信息科技"
+}
