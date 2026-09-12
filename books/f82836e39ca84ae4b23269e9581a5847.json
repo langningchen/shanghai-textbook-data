@@ -1,0 +1,34 @@
+{
+  "uuid": "f82836e39ca84ae4b23269e9581a5847",
+  "file_path": "https://cdn.sh-genius.cn/a17d31ccbdbe11663c3cef019eb19567.dcz",
+  "file_md5": "a17d31ccbdbe11663c3cef019eb19567",
+  "title": "义务教育教科书（五·四学制） 科学活动手册 六年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/f82836e39ca84ae4b23269e9581a5847/f82836e39ca84ae4b23269e9581a5847.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/f82836e39ca84ae4b23269e9581a5847.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 6,
+  "short_title": "科学活动手册六上",
+  "update_time": "2026-08-23 20:50:54",
+  "subject": "KX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "SIXTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787547867341",
+  "status": "1",
+  "subject_str": "科学"
+}
