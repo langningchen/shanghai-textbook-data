@@ -1,0 +1,35 @@
+{
+  "uuid": "be28a9a19c0c41709ddeb7567b2d0662",
+  "file_path": "https://cdn.sh-genius.cn/730f74b0a9127f3b75d2a2478308e46a.dcz",
+  "file_md5": "730f74b0a9127f3b75d2a2478308e46a",
+  "title": "美术 三年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/be28a9a19c0c41709ddeb7567b2d0662/be28a9a19c0c41709ddeb7567b2d0662.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/be28a9a19c0c41709ddeb7567b2d0662.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 2,
+  "short_title": "美术三二",
+  "update_time": "2026-03-03 12:07:05",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "THIRD_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547922286",
+  "status": "1",
+  "subject_str": "美术"
+}
