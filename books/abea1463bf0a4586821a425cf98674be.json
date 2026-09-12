@@ -1,0 +1,35 @@
+{
+  "uuid": "abea1463bf0a4586821a425cf98674be",
+  "file_path": "https://cdn.sh-genius.cn/a6dbdd181c9d98ed5a869ba6accf819b.dcz",
+  "file_md5": "a6dbdd181c9d98ed5a869ba6accf819b",
+  "title": "义务教育教科书（五·四学制） 数学练习部分 八年级下册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/abea1463bf0a4586821a425cf98674be/abea1463bf0a4586821a425cf98674be.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/abea1463bf0a4586821a425cf98674be.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "数学练习部分八下",
+  "update_time": "2026-02-10 14:19:14",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "EIGHTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572040788",
+  "status": "1",
+  "subject_str": "数学"
+}

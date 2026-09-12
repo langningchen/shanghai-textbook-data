@@ -1,0 +1,35 @@
+{
+  "uuid": "a7cb021a521b4c88a2fc91268ea26daa",
+  "file_path": "https://cdn.sh-genius.cn/bdabde41043171e11d0fcd344c858f96.dcz",
+  "file_md5": "bdabde41043171e11d0fcd344c858f96",
+  "title": "英语（牛津上海版）练习部分 九年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/a7cb021a521b4c88a2fc91268ea26daa/a7cb021a521b4c88a2fc91268ea26daa.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/a7cb021a521b4c88a2fc91268ea26daa.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "英语练习部分（牛津上海版）九二",
+  "update_time": "2026-02-13 00:43:40",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544416665",
+  "status": "1",
+  "subject_str": "英语"
+}
