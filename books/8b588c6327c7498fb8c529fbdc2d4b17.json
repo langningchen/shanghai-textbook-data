@@ -1,0 +1,35 @@
+{
+  "uuid": "8b588c6327c7498fb8c529fbdc2d4b17",
+  "file_path": "https://cdn.sh-genius.cn/f20fcd27a372acd7f0c4e9e45e9c3e29.dcz",
+  "file_md5": "f20fcd27a372acd7f0c4e9e45e9c3e29",
+  "title": "自然 三年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/8b588c6327c7498fb8c529fbdc2d4b17/8b588c6327c7498fb8c529fbdc2d4b17.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/8b588c6327c7498fb8c529fbdc2d4b17.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 10,
+  "short_title": "自然三二",
+  "update_time": "2026-02-10 20:11:04",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "THIRD_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787542851987",
+  "status": "1",
+  "subject_str": "自然"
+}
