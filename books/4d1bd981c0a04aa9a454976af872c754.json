@@ -1,0 +1,35 @@
+{
+  "uuid": "4d1bd981c0a04aa9a454976af872c754",
+  "file_path": "https://cdn.sh-genius.cn/640217fd72e8e2eadb7fa6c05a04272d.dcz",
+  "file_md5": "640217fd72e8e2eadb7fa6c05a04272d",
+  "title": "义务教育教科书（五·四学制）·艺术·舞蹈 九年级上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/4d1bd981c0a04aa9a454976af872c754/4d1bd981c0a04aa9a454976af872c754.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/4d1bd981c0a04aa9a454976af872c754.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 6,
+  "short_title": "艺术·舞蹈九上",
+  "update_time": "2026-08-23 11:17:49",
+  "subject": "YS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572042720",
+  "status": "1",
+  "subject_str": "艺术"
+}

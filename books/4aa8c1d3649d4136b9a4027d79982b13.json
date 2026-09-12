@@ -1,0 +1,35 @@
+{
+  "uuid": "4aa8c1d3649d4136b9a4027d79982b13",
+  "file_path": "https://cdn.sh-genius.cn/e912e6f705fe904ffeb5be93e9817f39.dcz",
+  "file_md5": "e912e6f705fe904ffeb5be93e9817f39",
+  "title": "义务教育教科书（五·四学制）·艺术·造型·美术 四年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/4aa8c1d3649d4136b9a4027d79982b13/4aa8c1d3649d4136b9a4027d79982b13.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/4aa8c1d3649d4136b9a4027d79982b13.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 4,
+  "short_title": "艺术·造型·美术四上",
+  "update_time": "2026-08-19 20:52:51",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547938836",
+  "status": "1",
+  "subject_str": "美术"
+}

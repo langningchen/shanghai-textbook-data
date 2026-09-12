@@ -1,0 +1,35 @@
+{
+  "uuid": "425ba8fae063436d808be57ff092a02c",
+  "file_path": "https://cdn.sh-genius.cn/ef60e4416845e8328bebe9cb23fe11cf.dcz",
+  "file_md5": "ef60e4416845e8328bebe9cb23fe11cf",
+  "title": "普通高中教科书 信息技术 选择性必修4 人工智能初步",
+  "cover_path": "https://cdn.sh-genius.cn/cover/425ba8fae063436d808be57ff092a02c/425ba8fae063436d808be57ff092a02c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/425ba8fae063436d808be57ff092a02c.jpg",
+  "is_current_term": 0,
+  "use_year": "2026",
+  "text_start_page": 8,
+  "short_title": "高中信息技术选修4 人工智能初步",
+  "update_time": "2026-08-22 05:47:58",
+  "subject": "XX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "HDSD",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787576005523",
+  "status": "1",
+  "subject_str": "信息科技"
+}

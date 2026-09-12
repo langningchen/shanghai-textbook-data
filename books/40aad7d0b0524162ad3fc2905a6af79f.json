@@ -1,0 +1,35 @@
+{
+  "uuid": "40aad7d0b0524162ad3fc2905a6af79f",
+  "file_path": "https://cdn.sh-genius.cn/b2bd81019320606bc3b486d4cc92ad9b.dcz",
+  "file_md5": "b2bd81019320606bc3b486d4cc92ad9b",
+  "title": "义务教育教科书（五·四学制） 艺术·美术 七年级下册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/40aad7d0b0524162ad3fc2905a6af79f/40aad7d0b0524162ad3fc2905a6af79f.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/40aad7d0b0524162ad3fc2905a6af79f.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "艺术·美术七下",
+  "update_time": "2026-03-03 15:32:03",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "SEVENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547934968",
+  "status": "1",
+  "subject_str": "美术"
+}
